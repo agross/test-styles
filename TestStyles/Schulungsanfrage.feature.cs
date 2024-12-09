@@ -140,7 +140,7 @@ namespace TestStyles
     testRunner.When("das Formular abgesendet wird", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Wenn ");
 #line hidden
 #line 30
-    testRunner.Then("das Backoffice über die Anfrage mit der Möglichkeit zur Freigabe informiert", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dann ");
+    testRunner.Then("wird das Backoffice über die Anfrage mit der Möglichkeit zur Freigabe informiert", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dann ");
 #line hidden
 #line 31
     testRunner.Then("hält der Prozess für 30 Tage an", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Dann ");

@@ -27,7 +27,7 @@ Funktionalität: Kunden können Schulungen anfragen
     # Act.
     Wenn das Formular abgesendet wird
     # Assert.
-    Dann das Backoffice über die Anfrage mit der Möglichkeit zur Freigabe informiert
+    Dann wird das Backoffice über die Anfrage mit der Möglichkeit zur Freigabe informiert
     Dann besteht die Möglichkeit der Freigabe für 30 Tage
 
   Szenario: Anfrage von einem menschlichen Benutzer der als Bot identifiziert wurde wird innerhalb von 30 Tagen freigegeben
